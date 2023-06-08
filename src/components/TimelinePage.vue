@@ -2,7 +2,6 @@
 
 <template>
 	<h1>Old Town Timeline</h1>
-
 	<section>
 		<p
 			><strong>1542</strong> Juan Rodriguez Cabrillo entered the San Diego
@@ -15,14 +14,14 @@
 		<p
 			><strong>1769</strong> Fray Junipero Serra dedicated the fist
 			mission in Califonria and also the first presidio to protect the
-			mission. Both were named san Diego</p
+			mission. Both were named San Diego</p
 		>
 		<div>
 			<img src="https://library.ucsd.edu/dc/object/bb27332553/_2.jpg" />
 		</div>
 		<p
 			><strong>1822</strong> The Mexican flag was raised over the presidio
-			and san Diegans swore their allegiance to it</p
+			and San Diegans swore their allegiance to the new government</p
 		>
 		<p
 			><strong>1834</strong> San Diego become a pueblo officialy and civil
