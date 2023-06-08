@@ -1,0 +1,36 @@
+
+body {
+  font-family: 'Source Serf 4', system-ui;
+  font-size: 1.125rem;
+  line-height:1.6;
+  margin: 0;
+}
+
+img,
+picture,
+svg {
+  max-width: 100%;
+  display: block;
+}
+
+main {
+  width: min(65ch,  100% - 4rem);
+  margin-inline: auto;
+  padding-bottom: 2rem;
+}
+
+strong {
+  font-weight: 700;
+}
+
+section {
+  margin: 2rem 0;
+  margin-block-end: 3rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Oswald', sans-serif;
+}
