@@ -149,7 +149,7 @@
 	}
 
 	.img-box > img {
-		max-height: 450px;
+		max-height: 350px;
 		object-fit: cover;
 		margin: auto;
 	}

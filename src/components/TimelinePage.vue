@@ -19,9 +19,20 @@
 		<div>
 			<img src="https://library.ucsd.edu/dc/object/bb27332553/_2.jpg" />
 		</div>
+		<p>
+			<strong>1820s</strong> Occupancy of the presidio started to move to
+			present day Old Town to live nearer to their farms and gardens. The
+			lands were given to them as reward for serving the presidio.
+		</p>
 		<p
 			><strong>1822</strong> The Mexican flag was raised over the presidio
 			and San Diegans swore their allegiance to the new government</p
+		>
+		<p
+			><strong>1833</strong> Mexican Congress passed a decree for
+			secularization of the missions in California. In San Diego, it means
+			that the land used to belong to the San Diego Mission were partial
+			out to the local Californios.</p
 		>
 		<p
 			><strong>1834</strong> San Diego become a pueblo officialy and civil
