@@ -4,14 +4,23 @@
 	<h1> Reference List </h1>
 	<ul>
 		<li
-			>A. Walsh, V. (2004). Una Casa del Pueblo. The Journal of San Diego
-			History, 50(022–4383).
-			https://sandiegohistory.org/journal/v50-1/una_casa.pdf </li
-		><li
+			>Alonzo Erastus Horton (1813-1909) - San Diego History Center | San
+			Diego, CA | Our City, Our Story. (2016, May 4). San Diego History
+			Center | San Diego, CA | Our City, Our Story.
+			https://sandiegohistory.org/archives/biographysubject/aehorton/</li
+		>
+		<li
 			>Baker, P. (1969). The Bandini Family. The Journal of San Diego
 			History, 15.
 			https://sandiegohistory.org/journal/1969/january/part2-2/</li
-		><li
+		>
+		<li
+			>Judge James W. Robinson (1800-1857) - San Diego History Center |
+			San Diego, CA | Our City, Our Story. (2016, May 4). San Diego
+			History Center | San Diego, CA | Our City, Our Story.
+			https://sandiegohistory.org/archives/biographysubject/jrobinson/</li
+		>
+		<li
 			>Masterson, R. (1968). The Machado-Silvas Family. The Journal of San
 			Diego History, 15.
 			https://sandiegohistory.org/journal/1969/january/part5-2/</li
@@ -31,5 +40,6 @@
 			Park.
 		</li>
 		<li> Seeley Stable Museum. Old Town San Diego State Historic Park. </li>
+		<li> McCoy House Museum. Old Town San Diego State Historic Park.</li>
 	</ul>
 </template>

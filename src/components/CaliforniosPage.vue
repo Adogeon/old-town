@@ -1,8 +1,7 @@
 <script setup></script>
 
 <template>
-	<h1>The Californios </h1>
-
+	<h1>The Californios Urban Flight</h1>
 	<section>
 		<article>
 			<p>

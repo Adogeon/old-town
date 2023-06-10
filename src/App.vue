@@ -7,9 +7,6 @@
 			>Californios</router-link
 		>
 		<router-link className="nav-item" to="/american">American</router-link>
-		<router-link className="nav-item" to="/restoration"
-			>Restoration</router-link
-		>
 		<router-link className="nav-item" to="/citation">Citations</router-link>
 	</div>
 	<main><router-view /></main>
